@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany2\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany1\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany2\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany1\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany2\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany1\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany2\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany1\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\garyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany2\\BethanysPieShop\\BethanysPieShop\\obj\\",
+        "outputPath": "C:\\Users\\garyl\\OneDrive\\Desktop\\bethany1\\BethanysPieShop\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garyl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -21,3 +21,5 @@ C:\Users\garyl\OneDrive\Desktop\bethany2\BethanysPieShop\BethanysPieShop\obj\Deb
 C:\Users\garyl\OneDrive\Desktop\bethany2\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.pdb
 C:\Users\garyl\OneDrive\Desktop\bethany2\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\BethanysPieShop.genruntimeconfig.cache
 C:\Users\garyl\OneDrive\Desktop\bethany2\BethanysPieShop\BethanysPieShop\obj\Debug\net6.0\ref\BethanysPieShop.dll
+C:\Users\garyl\OneDrive\Desktop\bethany2\BethanysPieShop\BethanysPieShop\bin\Debug\net6.0\libman.json
+C:\Users\garyl\OneDrive\Desktop\bethany2\BethanysPieShop\BethanysPieShop\bin\Debug\net6.0\BethanysPieShop.staticwebassets.runtime.json
